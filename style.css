@@ -9,6 +9,11 @@ body {
 }
 
 img {
+    border: 2px solid lightcoral;
     width: 600px;
     height: 400px;
+}
+
+a {
+    margin-top: 20px;
 }
