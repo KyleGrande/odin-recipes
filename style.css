@@ -10,10 +10,14 @@ body {
 
 img {
     border: 2px solid lightcoral;
-    width: 600px;
-    height: 400px;
+    width: 40%;
 }
 
 a {
     margin-top: 20px;
+}
+
+ul,
+ol {
+    text-align: left;
 }
